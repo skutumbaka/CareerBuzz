@@ -1,2 +1,2 @@
 # CareerBuzz
-MySQL redesign CareerBuzz
+MySQL redesign of CareerBuzz
